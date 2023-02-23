@@ -33,7 +33,8 @@ Competency Matrix for Site Reliability Engineering (SRE)
 
 
 
-# Estimated salary ranges for each SRE level in US dollars for Ukraine as of February 23, 2023.
+# Edge Cases and Estimated salary* ranges for each SRE level
+#####  *US dollars for Ukraine February 23, 2023
 
 ## Junior SRE
 

@@ -1,22 +1,16 @@
 # SRE-Competence-Matrix
 Competency Matrix for Site Reliability Engineering (SRE)
 
-| Level     | Skills                                                 | Tools/Technologies                           | Learning Suggestions                                             | Required |
-|-----------|--------------------------------------------------------|----------------------------------------------|------------------------------------------------------------------|:--------:|
-| Junior    | Basic knowledge of operating systems and networking    | Linux/Unix, TCP/IP, DNS, HTTP, SSH, Bash     | Familiarize with virtualization technologies and cloud platforms |    no    |
-|           | Ability to write simple scripts                        | Python, Bash, PowerShell, Shell scripting    | Learn basics of monitoring and alerting tools                    |    no    |
-|           | Understanding of infrastructure as code                | Terraform, CloudFormation, Ansible           | Practice with version control systems like Git                   |    no    |
-|           | Basic understanding of database concepts               | MySQL, PostgreSQL, MongoDB, Cassandra, Redis | Learn basic concepts of containerization                         |    no    |
-| Middle    | Knowledge of cloud computing platforms                 | AWS, Azure, Google Cloud                     | Learn and use Infrastructure as Code tools extensively           |          |
-|           | Advanced knowledge of operating systems and networking | Linux/Unix, TCP/IP, DNS, HTTP, SSH, Bash     | Understand distributed systems architecture and patterns         |          |
-|           | Experience with containerization                       | Docker, Kubernetes                           | Develop expertise in cloud platform-specific tools               |          |
-|           | Familiarity with monitoring and logging tools          | Prometheus, Grafana, ELK Stack, Splunk       | Attend conferences and meetups to network and learn              |          |
-| Senior    | Expertise in cloud computing platforms                 | AWS, Azure, Google Cloud                     | Develop deep understanding of software development               |          |
-|           | Knowledge of automation and orchestration              | Jenkins, GitLab, CircleCI, Spinnaker         | Pursue advanced certifications in relevant areas                 |          |
-|           | Deep understanding of infrastructure as code           | Terraform, CloudFormation, Ansible           | Share knowledge with others through mentorship and coaching      |          |
-|           | Expertise in distributed systems architecture          | Microservices, Service Meshes, API Gateways  | Contribute to open-source projects and industry initiatives      |          |
-| Principal | Visionary leadership and strategic thinking            |                                              | Keep up-to-date with industry trends and emerging technologies   |          |
-
+| Skills                              | Junior SRE Tools/Technologies                                     | Middle SRE Tools/Technologies                                       | Senior SRE Tools/Technologies                                                        | Principal SRE Tools/Technologies                                                  |
+|-------------------------------------|-------------------------------------------------------------------|---------------------------------------------------------------------|--------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| Infrastructure and Networking       | Linux, Bash, TCP/IP, DNS, Load Balancers                          | Advanced networking tools like F5, Citrix, Cloudflare, etc.         | Advanced networking tools like Cisco, Juniper, and Arista                            | Design custom hardware and software networking solutions                          |
+| Troubleshooting                     | Nagios, Zabbix, ELK Stack, Prometheus, Grafana                    | Advanced log analysis tools like Splunk, Graylog, or Loggly         | Advanced log analysis tools like Datadog, New Relic, or AppDynamics                  | Develop and maintain automated testing and deployment tools                       |
+| Cloud Computing and Virtualization  | AWS, GCP, Azure, VirtualBox, Docker, Kubernetes                   | Advanced cloud infrastructure tools like Terraform, Puppet, or Chef | Advanced cloud infrastructure tools like CloudFormation, ARM templates, or SaltStack | Advanced cloud infrastructure tools like CloudTrail, CloudWatch, or Azure Monitor |
+| Distributed Systems and Scalability | Apache Kafka, RabbitMQ, Redis, HAProxy, Nginx                     | Advanced distributed systems tools like Cassandra, Hadoop, or Spark | Advanced distributed systems tools like Kubernetes Operators, Istio, or Linkerd      | Advanced distributed systems tools like Consul, Nomad, or Vault                   |
+| Security and Compliance             | Security best practices, firewalls, encryption, SSL/TLS           | Advanced security tools like Nessus, Qualys, or OpenVAS             | Advanced security tools like HashiCorp Vault, AWS KMS, or Azure Key Vault            | Advanced security tools like HashiCorp Sentinel, Open Policy Agent, or AWS Config |
+| Leadership and Communication        | Collaboration tools, Agile                                        | Project management tools, team building skills                      | Interpersonal skills, communication skills, mentoring skills                         | Strategic thinking, business acumen, thought leadership                           |
+| Soft Skills                         | Problem-solving, critical thinking, time management, adaptability | Decision-making, conflict resolution, emotional intelligence        | Leadership, teamwork, creativity, innovation, negotiation                            | Visionary, influence, change management, resilience                               |
+| Hard Skills                         | Python, Go, Java, C++, Bash, PowerShell                           | Perl, Ruby, PHP, Node.js, Scala, Rust                               | C#, Kotlin, Swift, TypeScript, Julia, R                                              | Kotlin, Rust, Julia, R, Clojure                                                   |        
 
 # Soft Skills:
 

@@ -20,26 +20,16 @@ Competency Matrix for Site Reliability Engineering (SRE)
 
 # Soft Skills:
 
- 1. Strong communication skills, both verbal and written, with the   
-    ability to explain technical concepts to non-technical stakeholders.
- 1. Ability to collaborate effectively with cross-functional teams,
-    including developers, product managers, and business stakeholders.
- 2. Strong problem-solving skills and ability to think creatively to
-    find solutions to complex problems.
- 3. Ability to manage time effectively and prioritize tasks to meet
-    deadlines.
- 4. Flexibility and adaptability to changing priorities and
-    requirements.
- 5. Attention to detail and a commitment to producing high-quality work.
- 6. Ability to work well under pressure and remain calm during
-    incidents.
- 7. Empathy and a customer-focused mindset, with a commitment to
-    delivering high-quality service to internal and external customers.
- 8. Strong leadership skills with the ability to influence and inspire
-    others.
- 9. Commitment to continuous learning and professional development,
-    including staying up-to-date with new technologies and industry   
-    trends.
+ 1. Strong communication skills, both verbal and written, with the ability to explain technical concepts to non-technical stakeholders.
+ 2. Ability to collaborate effectively with cross-functional teams, including developers, product managers, and business stakeholders.
+ 3. Strong problem-solving skills and ability to think creatively to find solutions to complex problems.
+ 4. Ability to manage time effectively and prioritize tasks to meet deadlines.
+ 5. Flexibility and adaptability to changing priorities and requirements.
+ 6. Attention to detail and a commitment to producing high-quality work.
+ 7. Ability to work well under pressure and remain calm during incidents.
+ 8. Empathy and a customer-focused mindset, with a commitment to delivering high-quality service to internal and external customers.
+ 9. Strong leadership skills with the ability to influence and inspire others.
+ 10. Commitment to continuous learning and professional development, including staying up-to-date with new technologies and industry trends.
 
 
 

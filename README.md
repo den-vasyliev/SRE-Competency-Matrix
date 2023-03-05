@@ -1,4 +1,4 @@
-# SRE-Competence-Matrix
+# SRE-Competence-Matrix (Лопата Компетенцій)
 Competency Matrix for Site Reliability Engineering (SRE)
 
 | Skills                              | Junior SRE Tools/Technologies                                     | Middle SRE Tools/Technologies                                       | Senior SRE Tools/Technologies                                                        | Principal SRE Tools/Technologies                                                  |

@@ -14,6 +14,14 @@ Competency Matrix for Site Reliability Engineering (SRE)
 
 # Soft Skills:
 
+
+| skills group           | junior                                                                                               | middle                                                                                                                                                                              | senior                                                             |
+|------------------------|------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| personal effectiveness | Acceptance of criticism<br>Emotion management<br>Adaptability<br>Searching and analyzing information | Stress management<br>Goal-oriented<br>Planning and goal setting<br>Time managementt<br>Self development<br>Self-reliance<br>Reflectiont<br>Initiative                               | Multitasking                                                       |
+| Communication skills   | Multitasking<br>Listening skills                                                                     | Written communication<br>Persuasion                                                                                                                                                 | Emotional intelligence                                             |
+| Thinking skills        | Logical thinking<br>openness to new things                                                           | Systems analysis<br>Critical thinking<br>Creativity                                                                                                                                 | Project thining<br>Decision making                                 |
+| Leadership skills      |                                                                                                      | Constructive feedback<br>Responsibility for the result                                                                                                                              | Task delegation <br>Planning<br>Customer orientation<br>Mentoring  |
+
  1. Strong communication skills, both verbal and written, with the ability to explain technical concepts to non-technical stakeholders.
  2. Ability to collaborate effectively with cross-functional teams, including developers, product managers, and business stakeholders.
  3. Strong problem-solving skills and ability to think creatively to find solutions to complex problems.

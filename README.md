@@ -1,6 +1,8 @@
 # SRE Competency Matrix (Лопата Компетенцій)
 Competency Matrix for Site Reliability Engineering (SRE)
 
+Youtube Episode: https://youtu.be/liCoNksG_hM
+
 | Skills                              | Junior SRE Tools/Technologies                                     | Middle SRE Tools/Technologies                                       | Senior SRE Tools/Technologies                                                        | Principal SRE Tools/Technologies                                                  |
 |-------------------------------------|-------------------------------------------------------------------|---------------------------------------------------------------------|--------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
 | Infrastructure and Networking       | Linux, Bash, TCP/IP, DNS, Load Balancers                          | Advanced networking tools like F5, Citrix, Cloudflare, etc.         | Advanced networking tools like Cisco, Juniper, and Arista                            | Design custom hardware and software networking solutions                          |
